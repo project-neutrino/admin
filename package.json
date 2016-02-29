@@ -1,0 +1,26 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "admin panel for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/project-neutrino/admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/project-neutrino/admin/issues"
+  },
+  "homepage": "https://github.com/project-neutrino/admin#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
